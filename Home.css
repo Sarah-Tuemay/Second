@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(18, 29, 45);
+}
+
+.greeting{
+    margin: 200px;
+    margin-bottom: 20px;
+    color: bisque;
+    text-align: center;  
+}
+
+.logo{
+    padding: 150px;
+    padding-top: 0px;
+    padding-left: 400px;
+    padding-right: 10px;
+    float: left;
+}
+
+.forms{
+    padding-top: 40px;
+}
+
+#reset{
+    border-radius: 20px;
+    padding: 3px;
+    margin-right: 50px;
+}
+.signup{
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+
+
