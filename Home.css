@@ -30,6 +30,14 @@ body{
     border-radius: 10px;
     margin-left: 100px;
 }
+.footer{
+    margin-top:200px ;
+    margin-left: 80%;
+    color: bisque;
+}
+.footer a{
+    color: bisque;
+}
 
 
 
